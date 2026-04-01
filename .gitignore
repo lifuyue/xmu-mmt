@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+**/.venv/
+venv/
+
+# Generated outputs
+LAB2/output/
