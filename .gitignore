@@ -12,3 +12,11 @@ venv/
 
 # Generated outputs
 LAB2/output/
+LAB3/output/
+reports/
+*.zip
+*.tmp
+*.temp
+
+.agents/
+skills-lock.json
